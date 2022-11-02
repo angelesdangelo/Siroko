@@ -2,7 +2,7 @@
     font-display: swap;
     font-family: liberator-siroko-medium;
     font-weight: 400;
-    src: url(./fonts/liberator-siroko-medium.woff2) format("woff2"), url(./fonts/liberator-siroko-medium.woff) format("woff"), url(./fonts/liberator-siroko-medium.ttf) format("ttf")
+    src: url(https://angelesdangelo.github.io/Siroko/fonts/liberator-siroko-medium.woff2) format("woff2"), url(https://angelesdangelo.github.io/Siroko/fonts/liberator-siroko-medium.woff) format("woff"), url(https://angelesdangelo.github.io/Siroko//fonts/liberator-siroko-medium.ttf) format("ttf")
 }
 
 .button {
